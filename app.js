@@ -1,3 +1,4 @@
+//get /weights from https://github.com/justadudewhohacks/face-api.js/tree/master/weights
 const video = document.getElementById("video");
 
 Promise.all([
